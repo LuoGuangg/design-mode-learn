@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="factory-method-pattern" />
         <module name="simple-factory-pattern" />
+        <module name="singleton-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="design-patterns" target="1.5" />
-      <module name="factory-method-pattern" target="1.5" />
-      <module name="simple-factory-pattern" target="1.5" />
+      <module name="design-patterns" target="1.8" />
+      <module name="factory-method-pattern" target="1.8" />
+      <module name="simple-factory-pattern" target="1.8" />
+      <module name="singleton-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="builder-pattern" />
         <module name="factory-method-pattern" />
         <module name="simple-factory-pattern" />
         <module name="singleton-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="builder-pattern" target="1.8" />
       <module name="design-patterns" target="1.8" />
       <module name="factory-method-pattern" target="1.8" />
       <module name="simple-factory-pattern" target="1.8" />

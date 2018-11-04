@@ -11,6 +11,7 @@
         <module>simple-factory-pattern</module>
         <module>factory-method-pattern</module>
         <module>singleton-pattern</module>
+        <module>builder-pattern</module>
     </modules>
     <packaging>pom</packaging>
 

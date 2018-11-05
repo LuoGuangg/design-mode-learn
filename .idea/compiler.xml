@@ -11,6 +11,7 @@
         <module name="factory-method-pattern" />
         <module name="simple-factory-pattern" />
         <module name="singleton-pattern" />
+        <module name="strategy-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="factory-method-pattern" target="1.8" />
       <module name="simple-factory-pattern" target="1.8" />
       <module name="singleton-pattern" target="1.8" />
+      <module name="strategy-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

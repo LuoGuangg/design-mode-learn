@@ -17,6 +17,7 @@
         <module>observer-pattern</module>
         <module>proxy-pattern</module>
         <module>composite-pattern</module>
+        <module>bridge-pattern</module>
     </modules>
     <packaging>pom</packaging>
 

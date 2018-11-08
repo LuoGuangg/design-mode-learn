@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bridge-pattern" />
         <module name="builder-pattern" />
         <module name="composite-pattern" />
         <module name="decorator-pattern" />
@@ -18,6 +19,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bridge-pattern" target="1.8" />
       <module name="builder-pattern" target="1.8" />
       <module name="composite-pattern" target="1.8" />
       <module name="decorator-pattern" target="1.8" />

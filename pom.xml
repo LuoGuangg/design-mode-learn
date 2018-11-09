@@ -18,6 +18,7 @@
         <module>proxy-pattern</module>
         <module>composite-pattern</module>
         <module>bridge-pattern</module>
+        <module>mediator-pattern</module>
     </modules>
     <packaging>pom</packaging>
 
